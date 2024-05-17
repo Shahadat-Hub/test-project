@@ -1,6 +1,6 @@
 {
     "1": {
-        "item": "water",
+        "item": "water_bottle",
         "name": "Water",
         "price": 100,
         "category": "Tools"
@@ -12,9 +12,15 @@
         "category": "Tools"
     },
      "3": {
-        "item": "pistol",
+        "item": "weapon_pistol",
         "name": "Pistol",
         "price": 300,
         "category": "Weapon"
+    },
+     "4": {
+        "item": "radio",
+        "name": "Pistol",
+        "price": 20,
+        "category": "Radio"
     }
 }
