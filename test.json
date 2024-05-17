@@ -1,0 +1,14 @@
+{
+    "1": {
+        "item": "water",
+        "name": "Water",
+        "price": 100,
+        "category": "Taco"
+    },
+    "2": {
+        "item": "repairkit",
+        "name": "Repairkit",
+        "price": 100,
+        "category": "Taco"
+    }
+}
