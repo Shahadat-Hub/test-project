@@ -3,12 +3,18 @@
         "item": "water",
         "name": "Water",
         "price": 100,
-        "category": "Taco"
+        "category": "Tools"
     },
     "2": {
         "item": "repairkit",
         "name": "Repairkit",
         "price": 100,
-        "category": "Taco"
+        "category": "Tools"
+    },
+     "3": {
+        "item": "pistol",
+        "name": "Pistol",
+        "price": 300,
+        "category": "Weapon"
     }
 }
